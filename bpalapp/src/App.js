@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-import BPALApp from './Components/CollectionDisplay'
+import BPALApp from './components/BPALApp'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 class App extends Component {
